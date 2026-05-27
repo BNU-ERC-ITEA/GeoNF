@@ -26,7 +26,7 @@ We're excited to share our dataset with the community!
 
 <div align="center">
 
-**XiaoJing Wei** • **Ting Zhang** •  **Wei He** • **Jingdong Wang** • **Hua Huang**<sup>✉</sup>
+**Xiaojing Wei** • **Ting Zhang** •  **Wei He** • **Jingdong Wang** • **Hua Huang**<sup>✉</sup>
 
 </div>
 
