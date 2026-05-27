@@ -61,7 +61,6 @@ We're excited to share our dataset with the community!
   - `train/` – Ground truth diagrams for train set
     - `1.png`, `2.png`, ...
   - `README.md` – Dataset documentation
-  - `LICENSE` – License file 
 
 
 ## 📚 Citation
