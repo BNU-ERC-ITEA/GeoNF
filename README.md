@@ -45,9 +45,9 @@ We're excited to share our dataset with the community!
 - By leveraging formal representations, GeoLoom achieves superior structural fidelity compared to state-of-the-art baselines, offering a principled, interpretable, and scalable approach to automatic geometric diagram generation. 
 
 <div align="center">
-  <img src="readme_src/main_figure.png" alt="GeoLoom-framework" width="90%">
+  <img src="GeoLoom-framework.png" alt="GeoLoom-framework" width="90%">
   <br>
-  <em>🔺 Framework Overview of Pri-TPG &nbsp;</em>
+  <em>🔺 Framework Overview of GeoLoom &nbsp;</em>
 </div>
 
  
